@@ -1,0 +1,38 @@
+groceries, 100.00
+gasoline 100.00
+food ,100.00
+books  100.00
+entertainment 100.00
+car 100.00
+groceries, 100.00
+gasoline 100.00
+food ,100.00
+books  100.00
+entertainment 100.00
+car 100.00
+groceries, 100.00
+hello123456 110.00 100.00
+gasoline 100.00
+food ,100.00
+books  100.00
+entertainment 100.00
+car 100.00
+hello123 110.00 100.00
+groceries, 100.00
+gasoline 100.00
+food ,100.00
+books  100.00
+entertainment 100.00
+car 100.00
+hello 110.00 100.00
+00.00 Bhargavi
+00.00
+dining 100.00
+
+
+
+
+
+
+
+
