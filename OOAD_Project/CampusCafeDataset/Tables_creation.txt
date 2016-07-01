@@ -1,0 +1,56 @@
+CREATE TABLE CAMPUS_CAFE(
+campus_cafe_id varchar (50)PRIMARY KEY,
+type varchar(50),
+name varchar(50),
+location varchar(50),
+food_id varchar(100));
+
+CREATE TABLE USERS(
+student_id varchar (50) PRIMARY KEY,
+first_name varchar(50),
+last_name varchar(50),
+funds_allowance varchar(50),
+funds_spent varchar(50),
+caloric_restriction varchar (50),
+caloric_count varchar(50),
+vegan varchar(50),
+low_sodium varchar(50),
+low_sugar varchar(50),
+low_carbs varchar(50),
+fat_free varchar(50));
+
+CREATE TABLE Food(
+food_id varchar (50) PRIMARY KEY,
+name varchar(50),
+type varchar(50),
+price varchar(50),
+calories varchar(50),
+carbohydrates varchar(50),
+fat varchar (50),
+cholesterol varchar(50),
+peanut_allergy varchar(50),
+seafood_allergy varchar(50),
+vegan varchar(50),
+lactose_intolerant varchar(50),
+time varchar(50));
+
+CREATE TABLE ORDER_details(
+order_id varchar (50)PRIMARY KEY,
+campus_cafe_id varchar (50),
+student_id varchar(50),
+food_id varchar(50),
+quantity varchar(50),
+total_amount varchar(100),
+purchase_date DATE,
+foreign key(campus_cafe_id) references campus_cafe(campus_cafe_id),
+foreign key(student_id) references users(student_id),
+foreign key(food_id) references food(food_id));
+
+DROP TABLE CAMPUS_CAFE cascade constraints;
+ drop table users cascade constraints;
+ drop table food cascade constraints;
+ drop table order_details cascade constraints;
+ 
+ select * from users;
+ select * from campus_cafe;
+ select * from food;

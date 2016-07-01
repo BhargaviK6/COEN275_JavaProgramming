@@ -1,0 +1,11 @@
+{"campus_cafe_id":"C1","type":"cafe","name":"Mission Bakery","location":"Benson Center","food_id":"F1,F2,F3,F4,F5,F6,F7,F8,F9,F10,11,F12,F13,F14,F15,F16,F17,F18,F19"}
+{"campus_cafe_id":"C2","type":"cafe","name":"Sunstream  Bakery","location":"University Library","food_id":"F1,F2,F3,F4,F5,F6,F7,F8,F9,F10,11,F12,F13,F14,F15,F16,F17,F18,F19"}
+{"campus_cafe_id":"C3","type":"cafe","name":"Cadence  Bakery","location":"Benson Center","food_id":"F1,F2,F3,F4,F5,F6,F7,F8,F9,F10,11,F12,F13,F14,F15,F16,F17,F18,F19"}
+{"campus_cafe_id":"C4","type":"cafe","name":"La Parilla  Bakery","location":"Benson Center","food_id":"F1,F2,F3,F4,F5,F6,F7,F8,F9,F10,11,F12,F13,F14,F15,F16,F17,F18,F19"}
+{"campus_cafe_id":"C5","type":"cafe","name":"Bronco ","location":"Benson Center","food_id":"F1,F2,F3,F4,F5,F6,F7,F8,F9,F10,11,F12,F13,F14,F15,F16,F17,F18,F19"}
+{"campus_cafe_id":"C6","type":"cafe","name":"Cafe  455","location":"Guadalupe Hall","food_id":"F1,F2,F3,F4,F5,F6,F7,F8,F9,F10,11,F12,F13,F14,F15,F16,F17,F18,F19"}
+{"campus_cafe_id":"V1","type":"vending_machine","name":"Library Vending Machine ","location":"University Library","food_id":"F1,F2,F3,F4,F5,F6,F7,F8,F9,F10,11,F12,F13,F14,F15,F16,F17,F18,F19"}
+{"campus_cafe_id":"V2","type":"vending_machine","name":"Engineering Center Vending Machine ","location":"Engineering Center","food_id":"F1,F2,F3,F4,F5,F6,F7,F8,F9,F10,11,F12,F13,F14,F15,F16,F17,F18,F19"}
+{"campus_cafe_id":"V3","type":"vending_machine","name":"Lucas Hall  Vending Machine","location":"Lucas Hall","food_id":"F1,F2,F3,F4,F5,F6,F7,F8,F9,F10,11,F12,F13,F14,F15,F16,F17,F18,F19"}
+{"campus_cafe_id":"V4","type":"vending_machine","name":"Leavey Hall Vending Machine ","location":"Leavey Hall","food_id":"F1,F2,F3,F4,F5,F6,F7,F8,F9,F10,11,F12,F13,F14,F15,F16,F17,F18,F19"}
+{"campus_cafe_id":"V5","type":"vending_machine","name":"Bensen Center Vending Machine ","location":"Vending Machine ","food_id":"F1,F2,F3,F4,F5,F6,F7,F8,F9,F10,11,F12,F13,F14,F15,F16,F17,F18,F19"}
